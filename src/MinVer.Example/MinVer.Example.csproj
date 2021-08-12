@@ -8,9 +8,9 @@
         <PackageId>MinVer.Example</PackageId>
         <PackageTags>minver nuget github</PackageTags>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/Kurpanik/MinVerExample</PackageProjectUrl>
-        <PackageReleaseNotes>https://github.com/Kurpanik/MinVerExample/releases</PackageReleaseNotes>
-        <PublishRepositoryUrl>true</PublishRepositoryUrl>
+        <PackageProjectUrl>https://github.com/DmytroKontsevoy/MinVerExample</PackageProjectUrl>
+        <PackageReleaseNotes>https://github.com/DmytroKontsevoy/MinVerExample/releases</PackageReleaseNotes>
+        <PublishRepositoryUrl>false</PublishRepositoryUrl>
         <DebugSymbols>true</DebugSymbols>
         <DebugType>portable</DebugType>
         <!--Embed PDBs instead of prtable, AllowedOutputExtensionsInPackageBuildOutputFolder can be skipped then: -->
