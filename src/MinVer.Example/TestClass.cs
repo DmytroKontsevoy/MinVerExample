@@ -7,7 +7,7 @@ namespace MinVer.Example
         public static void WriteToConsole()
         {
             // Comment for symbol tests
-            Console.WriteLine("Test3");
+            Console.WriteLine("Test4");
         }
     }
 }
